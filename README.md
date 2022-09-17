@@ -6,7 +6,7 @@ Projeto construido do evento Next level week do Rockeseat.
 
 [Clique aqui para acessar](https://cleonice08.github.io/Projeto-R/)
 
-## tecnologias
+## Tecnologias
 
 - HTML
 - CSS
