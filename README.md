@@ -1,6 +1,6 @@
 # NLM eSport - Trilha Explorer
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto construido do evento Next level week do Rockeseat.
 
